@@ -1,0 +1,5 @@
+__pycache__/
+marie_bar.json
+*.pyc
+cocktail/data/embeddings.npz
+marie_unsure.jsonl
