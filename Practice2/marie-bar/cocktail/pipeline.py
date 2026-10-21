@@ -30,8 +30,7 @@ class CocktailPipeline:
     def respond(self, message: str, session: Session, profile: Profile,
                 allow_missing: int = 1, top_k: int = 3) -> Reply:
         self.tools.trace = []
-        shown = [self.by_id[i].name for i in session.last_ids if i in self.by_id]
-        intent = understand(message, self.vocab, self.llm, session.last_intent, shown, session.state)
+        intent = understand(message, self.vocab, self.llm, session.last_intent, session.state)
 
         added = [h for h in intent.have if h not in profile.bar]
         profile.bar = list(dict.fromkeys(profile.bar + added))

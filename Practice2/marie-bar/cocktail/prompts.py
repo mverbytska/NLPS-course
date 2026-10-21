@@ -6,9 +6,9 @@ _BASE = dict(action="suggest", flavors=[], avoid_flavors=[], exclude=[], must_in
              alcohol="keep", have=[], followup=False, vibe="", lookup="", lift=[], reset=False)
 
 
-def _ex(request: str, context: str = "none", **kw) -> str:
+def _ex(request: str, **kw) -> str:
     out = json.dumps({**_BASE, **kw}, separators=(",", ":"))
-    return f"Previous request: {context}\nRequest: {request}\n{out}"
+    return f"Request: {request}\n{out}"
 
 
 _EXAMPLES = "\n\n".join([
@@ -17,9 +17,9 @@ _EXAMPLES = "\n\n".join([
         strength="strong", vibe="strong whiskey drink"),
     _ex("something cozy for a rainy evening", flavors=["warm"], vibe="cozy drink for a rainy evening"),
     _ex("no alcohol tonight, something fruity", flavors=["fruity"], alcohol="none", vibe="fruity"),
-    _ex("actually alcohol is fine again", "flavours: fruity; standing: alcohol-free", alcohol="any", followup=True),
-    _ex("gin is ok now, something sour", "none; standing: no gin", flavors=["sour"], lift=["gin"], vibe="sour"),
-    _ex("another one, but less sweet", "flavours: sour; without: gin", avoid_flavors=["sweet"], followup=True),
+    _ex("actually alcohol is fine again", alcohol="any"),
+    _ex("gin is ok now, something sour", flavors=["sour"], lift=["gin"], vibe="sour"),
+    _ex("another one, but less sweet", avoid_flavors=["sweet"], followup=True),
     _ex("Aperol", action="search", must_include=["aperol"], lookup="aperol"),
     _ex("what can I make with campari and gin?", action="search", must_include=["campari", "gin"],
         lookup="drinks with campari and gin"),
@@ -30,8 +30,9 @@ _EXAMPLES = "\n\n".join([
     _ex("invent a new drink with grapefruit and campari", action="invent", must_include=["grapefruit", "campari"],
         vibe="new bitter grapefruit drink"),
     _ex("what can I make with what I have?", action="suggest"),
+    _ex("something with cherries and vodka", must_include=["cherry", "vodka"], vibe="cherry vodka drink"),
     _ex("come up with something new using tequila", action="invent", must_include=["tequila"], vibe="new tequila drink"),
-    _ex("make it less bitter", "flavours: bitter; must use: campari", avoid_flavors=["bitter"], followup=True),
+    _ex("make it less bitter", avoid_flavors=["bitter"], followup=True),
     _ex("thanks, that was great!", action="chat"),
 ])
 
@@ -45,18 +46,16 @@ Fields:
     "chat"       greetings, thanks, general questions
 - flavors: zero or more of {FLAVOR_VOCAB} the user WANTS. Use only these words.
 - avoid_flavors: flavors from the same list the user does NOT want ("not too sweet" -> ["sweet"]).
-- exclude: ingredients the user does NOT want (lower-case, singular).
+- exclude: ONLY ingredients the user says they do NOT want ("no gin", "without cream", "I hate cilantro"). An ingredient the user asks for is never excluded. Lower-case, singular.
 - must_include: ingredients the user explicitly wants to use or asks about (not drink names).
 - strength: "any", "light", "medium" or "strong".
 - alcohol: "none" if the user wants no alcohol; "only" if they insist on drinks with alcohol; "any" if they take back an earlier alcohol preference ("alcohol is fine again"); "keep" if the message says nothing about alcohol.
 - have: ingredients the user says they own or just bought ("I just got gin"). Empty otherwise.
-- followup: true if the message refers to the previous request or to drinks already shown.
+- followup: true ONLY if the message makes no sense on its own and builds on an earlier answer ("another one", "less sweet", "make it stronger", "same but with rum"). false when it names its own drink, ingredient, flavour or mood.
 - vibe: 3-8 words with the mood, occasion or taste in the user's own words. Empty string if none.
 - lookup: for action "search", the short phrase to look up in the recipe book (a drink name, or what the drinks should contain), without filler words. Empty otherwise.
 - lift: ingredients or flavours the user stops avoiding ("gin is ok now" -> ["gin"]). Empty otherwise.
 - reset: true only if the user wants to forget all earlier preferences ("start over").
-
-"Previous request" also lists standing preferences that stay on for the whole conversation.
 
 Only report what the user wrote in THIS message. The examples show the output format only: never copy their ingredients, flavours or settings.
 
@@ -65,8 +64,8 @@ Examples:
 """
 
 
-def intent_user(message: str, context: str) -> str:
-    return f"Previous request: {context}\nRequest: {message}"
+def intent_user(message: str) -> str:
+    return f"Request: {message}"
 
 
 EXPLAIN_SYSTEM = (

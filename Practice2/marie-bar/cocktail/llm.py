@@ -117,8 +117,8 @@ class OllamaLLM:
         self.last_error = reason
         print(f"[marie] model call problem: {reason}", file=sys.stderr)
 
-    def understand(self, message: str, context: str) -> Optional[LLMIntent]:
-        return self._structured(INTENT_SYSTEM, intent_user(message, context), LLMIntent, max_tokens=300)
+    def understand(self, message: str) -> Optional[LLMIntent]:
+        return self._structured(INTENT_SYSTEM, intent_user(message), LLMIntent, max_tokens=300)
 
     def explain(self, name: str, ingredients: List[str], flavors: List[str], request: str) -> Optional[str]:
         try:

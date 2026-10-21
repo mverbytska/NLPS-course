@@ -3,7 +3,7 @@ import argparse
 import json
 import sys
 
-from cocktail.chat import ALCOHOL_ALIASES, hear, set_exclude, turn
+from cocktail.chat import ALCOHOL_ALIASES, set_exclude, turn
 from cocktail.inventory import parse_inventory_text
 from cocktail.memory import Profile, Session
 from cocktail.pipeline import CocktailPipeline
@@ -17,7 +17,6 @@ HELP = """Commands (they match the controls in the web UI):
   /state                   show what I'm keeping in mind
   /missing 0|1|2           how many missing ingredients are OK
   /top N                   how many suggestions
-  /voice FILE              ask by audio file          /record [SECONDS]   ask with your microphone
   /new                     start a new conversation (clears standing preferences, keeps your bar)
   /help, /quit
 Anything else is a message to Marie: a drink request, a follow-up ("another one, less sweet"),
@@ -29,15 +28,6 @@ ALCOHOL_NAMES = {"any": "any drink", "none": "alcohol-free", "only": "with alcoh
 def answer(pipe, message, session, profile, args) -> None:
     reply, profile.bar = turn(pipe, message, session, profile.bar, args.missing, args.top)
     print(json.dumps(reply.model_dump(), indent=2, ensure_ascii=False) if args.json else to_text(reply))
-
-
-def listen(pipe, session, profile, args, audio_path: str) -> None:
-    text = hear(pipe, audio_path)
-    if not text:
-        print("I couldn't hear anything. Try again?")
-        return
-    print(f'Heard: "{text}"\n')
-    answer(pipe, text, session, profile, args)
 
 
 def show_state(session) -> None:
@@ -113,7 +103,6 @@ def repl(pipe, session, profile, args) -> None:
 def main() -> int:
     p = argparse.ArgumentParser(description="Cocktail suggestions from what's in your bar.")
     p.add_argument("query", nargs="?", help="what you feel like (omit for interactive mode)")
-    p.add_argument("--audio", help="audio file with your request (transcribed locally with Whisper)")
     p.add_argument("--have", help="comma-separated ingredients you own (replaces the saved bar)")
     p.add_argument("--alcohol", choices=["any", "none", "only"], default="any", help="alcohol setting to start with")
     p.add_argument("--exclude", default="", help="comma-separated ingredients to never include")
@@ -136,9 +125,7 @@ def main() -> int:
         profile.bar = parse_inventory_text(args.have)
         profile.save()
 
-    if args.audio:
-        listen(pipe, session, profile, args, args.audio)
-    elif args.query:
+    if args.query:
         answer(pipe, args.query, session, profile, args)
     else:
         repl(pipe, session, profile, args)

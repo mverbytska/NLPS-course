@@ -1,0 +1,5309 @@
+{
+  "recipes": {
+    "15423": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy lager with tequila, perfect for a tropical twist on a refreshing beer cocktail."
+    },
+    "14588": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical",
+        "dessert"
+      ],
+      "taste": "Sweet, creamy, tropical blend of dark chocolate, rum, and ice cream, perfect for a dessert cocktail."
+    },
+    "15346": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity blend of dark rum, light rum, and orange juice, perfect for a twist on a classic, served in a wine glass."
+    },
+    "17060": {
+      "flavors": [
+        "spicy",
+        "sweet",
+        "tropical",
+        "creamy"
+      ],
+      "taste": "Spicy tropical notes with a creamy finish, perfect for a nightcap."
+    },
+    "15288": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Rich, sweet rum with tropical notes, perfect for a quick, indulgent drink."
+    },
+    "13899": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Bitter and sweet whiskey trio, perfect for after dinner indulgence."
+    },
+    "15300": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A sweet, fruity, creamy 3-Mile Long Island Iced Tea with cola and a hint of bitters, perfect for a hot summer day."
+    },
+    "13581": {
+      "flavors": [
+        "sweet",
+        "tropical"
+      ],
+      "taste": "Sweet and tropical, perfect for a refreshing cola-based drink to end a meal."
+    },
+    "14598": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy with a hint of orange and Grand Marnier, perfect for a dessert-like evening drink."
+    },
+    "17105": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a fruity and refreshing summer cocktail."
+    },
+    "14029": {
+      "flavors": [
+        "creamy",
+        "sweet"
+      ],
+      "taste": "Rich and sweet, perfect for a nightcap or dessert drink."
+    },
+    "13940": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet, citrusy cocktail with a hint of lemon, perfect for a refreshing summer drink."
+    },
+    "14229": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "tropical"
+      ],
+      "taste": "A creamy, sweet tropical cocktail with hints of frangelico, perfect for a dessert-like evening drink."
+    },
+    "178318": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "A sweet, fruity, citrusy cocktail that's refreshing and pairs well with a slice of lime or cranberries."
+    },
+    "16108": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "sweet"
+      ],
+      "taste": "Juicy and sweet, perfect for a summer afternoon cocktail."
+    },
+    "15200": {
+      "flavors": [
+        "tropical",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "A tropical cocktail with sweet amaretto, fruity orange, and a touch of tangy grenadine, perfect for a sunny afternoon."
+    },
+    "17831": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet and creamy drink, perfect for a tropical evening cocktail."
+    },
+    "16943": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity tropical cocktail, perfect for a sunny day afternoons."
+    },
+    "15675": {
+      "flavors": [
+        "fruity",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A tropical fruity blend with a creamy finish, perfect for a summer night treat."
+    },
+    "17832": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with citrus notes, perfect for a warm summer evening."
+    },
+    "16405": {
+      "flavors": [
+        "sweet",
+        "sour"
+      ],
+      "taste": "Sweet and soury, perfect for a boozy dessert drink after dinner."
+    },
+    "14564": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy banana melon twist, perfect for a refreshing summer treat."
+    },
+    "17005": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "sour"
+      ],
+      "taste": "Sweet and creamy Amaretto balanced with tangy lemon, perfect for a dessert-like cocktail."
+    },
+    "17833": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet with a tangy grapefruit, perfect for a refreshing mid-day cocktail."
+    },
+    "14560": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "herbal"
+      ],
+      "taste": "Sweet, creamy mint with a hint of chocolate, perfect for after dinner indulgence."
+    },
+    "17222": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a festive evening cocktail."
+    },
+    "17834": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "citrus"
+      ],
+      "taste": "A citrusy and slightly bitter gin cocktail, perfect for a warm summer evening."
+    },
+    "17223": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and citrusy cocktail perfect for a warm summer evening."
+    },
+    "13501": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Sweet and creamy Irish Cream amaretto and cognac, perfect for a dessert after dinner."
+    },
+    "17835": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Sweet and fruity with a citrus twist, perfect for a hot summer day cocktail."
+    },
+    "12790": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "herbal",
+        "sour"
+      ],
+      "taste": "Bitter and sweet with herbal notes, perfect for sipping on a chilly evening."
+    },
+    "14374": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "herbal"
+      ],
+      "taste": "A tropical and herbal cocktail with a touch of citrus and sweetness, perfect for a refreshing summer drink."
+    },
+    "14372": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with citrus notes, perfect for a refreshing summer drink."
+    },
+    "14360": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Sweet and fruity with a hint of citrus, perfect for a refreshing summer drink."
+    },
+    "15597": {
+      "flavors": [
+        "fruity",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A tropical blend of sweet fruits and creamy coconut, perfect for a refreshing summer cocktail."
+    },
+    "14107": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Juicy and sweet citrus cocktail for hot summer days."
+    },
+    "15024": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Juicy cranberry and sweet vodka blend with a hint of ginger, perfect for a frosty winter treat."
+    },
+    "17224": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Juicy and sweet, perfect for a festive brunch or after a meal."
+    },
+    "16134": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "sweet"
+      ],
+      "taste": "A fruity and citrusy cocktail with a sweet finish, perfect for a night out on the town."
+    },
+    "17836": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "A creamy, fruity drink with citrus and mint, perfect for a refreshing summer cocktail."
+    },
+    "17225": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet, creamy, tropical blend; perfect for a warm summer evening cocktail."
+    },
+    "14610": {
+      "flavors": [
+        "sour",
+        "sweet"
+      ],
+      "taste": "A sweet and soury mix of rum with a hint of sweetness, perfect for a warm summer day."
+    },
+    "17837": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A dark rum and lemon cocktail with a touch of sweetness and a hint of fruitiness, perfect for sipping after dinner."
+    },
+    "17226": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "sour"
+      ],
+      "taste": "A fruity and bitter cocktail with a touch of sweetness, perfect for a nightcap."
+    },
+    "16333": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy tropical cocktail, perfect for a hot summer day."
+    },
+    "15567": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a refreshing summer drink."
+    },
+    "17227": {
+      "flavors": [
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A sweet and bitter mix, perfect for a refreshing aperitif before dinner."
+    },
+    "17228": {
+      "flavors": [
+        "sour",
+        "sweet"
+      ],
+      "taste": "A gin and vermouth cocktail that is sweet and slightly sour, perfect for a pre-dinner drink."
+    },
+    "14272": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "tropical"
+      ],
+      "taste": "Sweet and tangy, perfect for a fruity finish after a meal."
+    },
+    "17229": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity citrus cocktail, perfect for a warm summer evening."
+    },
+    "17838": {
+      "flavors": [
+        "sweet",
+        "bitter",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet, bitter, fruity, and citrusy cocktail perfect for sipping after dinner."
+    },
+    "17839": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "tropical"
+      ],
+      "taste": "A fruity and tropical cocktail with a touch of sweetness, perfect for a refreshing summer drink."
+    },
+    "17840": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A balanced blend of scotch, sweet and dry vermouth with a touch of orange bitters, perfect for a sophisticated after-dinner drink."
+    },
+    "11010": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity apricot cocktail with a creamy finish, perfect after dinner for a decadent treat."
+    },
+    "13807": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "herbal",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy with peppermint and coffee notes, perfect for a festive after-dinner drink."
+    },
+    "15182": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Sweet and creamy, perfect for dessert drinks after a romantic evening"
+    },
+    "11011": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy tropical cocktail, perfect for after dinner indulgence."
+    },
+    "12560": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "tropical",
+        "dessert"
+      ],
+      "taste": "Sweet and tropical, perfect for a dessert-like drink to end a meal."
+    },
+    "13162": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A rich, creamy blend of coffee liqueur, Irish cream, and frangelico, perfect for a sweet and indulgent afternoon treat."
+    },
+    "11012": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "Sweet and bitter with a hint of amaretto and sloe gin, perfect for a warm evening cocktail."
+    },
+    "11013": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "citrus"
+      ],
+      "taste": "A fruity and bitter cocktail with citrus notes, perfect for a refreshing summer drink."
+    },
+    "11014": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy chocolate cocktail, perfect for a warm and indulgent evening drink."
+    },
+    "11019": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "sweet"
+      ],
+      "taste": "Juicy and sweet with a hint of tropical pineapple, perfect for a hot summer day cocktail."
+    },
+    "11020": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and tropical cocktail with pineapple and whiskey, perfect for a warm summer evening."
+    },
+    "12562": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy finish, perfect for a tropical brunch or after dinner indulgence."
+    },
+    "17094": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy mix, perfect for a dessert-like drink to enjoy after dinner."
+    },
+    "11021": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet and fruity cocktail with a touch of blackberry and bourbon, perfect for sipping after dinner."
+    },
+    "11022": {
+      "flavors": [
+        "sour",
+        "bitter",
+        "sweet",
+        "creamy"
+      ],
+      "taste": "A dry, bitter cocktail with hints of sweetness and a creamy finish, perfect for after dinner indulgence."
+    },
+    "11023": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sour"
+      ],
+      "taste": "A creamy cocktail with coffee and a hint of sour, perfect for a nightcap after dinner."
+    },
+    "16082": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "coffee",
+        "tropical"
+      ],
+      "taste": "A rich, creamy blend of coffee, chocolate, and almond, perfect for a dessert-like drink after dinner."
+    },
+    "11024": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy, perfect for a warm tropical night cocktail."
+    },
+    "12862": {
+      "flavors": [
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A tropical, fruity drink with a hint of ginger, perfect for a hot summer day."
+    },
+    "11025": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy, perfect for a dessert-like drink to enjoy after dinner."
+    },
+    "178321": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy Amaretto fizz with a hint of fruity orange, perfect for a festive brunch or after dinner indulgence."
+    },
+    "12792": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Sweet, creamy, and herbal with a hint of almond and apricot, perfect for a dessert-like after-dinner drink."
+    },
+    "11026": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy amaretto with a hint of citrus, perfect for a dessert-like drink."
+    },
+    "11027": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy Amaretto with a hint of citrus, perfect for a refreshing summer drink."
+    },
+    "15194": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Rich and creamy, perfect for a dessert-like drink after dinner"
+    },
+    "13731": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "Sweet and sour amaretto cocktail, perfect for dessert moments."
+    },
+    "11028": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Sweet and creamy Amaretto with mint, perfect for a dessert-like drink in the evening."
+    },
+    "14306": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "fruity"
+      ],
+      "taste": "Sweet and sour with a fruity orange twist, perfect for a dessert-like drink to enjoy after dinner."
+    },
+    "16100": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and soury with tequila and amaretto, perfect for a refreshing nightcap."
+    },
+    "14578": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy finish, best enjoyed in the morning for a breakfast cocktail."
+    },
+    "17168": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Sweet and creamy Amaretto with subtle cider notes, perfect for a dessert-inspired drink after dinner."
+    },
+    "16202": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "fruity"
+      ],
+      "taste": "A sweet and soury cocktail with melon and pineapple, perfect for a fruity and refreshing summer drink."
+    },
+    "11029": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy tea with a hint of almond from amaretto, best enjoyed as a dessert drink."
+    },
+    "15941": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A bitter-sweet cocktail with a hint of citrus, perfect for sipping on a hot day."
+    },
+    "11034": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy finish, perfect for a dessert-like cocktail after dinner."
+    },
+    "12794": {
+      "flavors": [
+        "bitter",
+        "spicy",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Bitter and spicy with a creamy almond undertone, perfect for a nightcap or after dinner indulgence."
+    },
+    "15106": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "sour"
+      ],
+      "taste": "Juicy blend of orange, grapefruit, and apple with a tart finish, perfect for a brunch or brunchy cocktail."
+    },
+    "178325": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Aperol's citrusy sweetness pairs perfectly with the effervescence of prosecco, ideal for a warm summer evening."
+    },
+    "12710": {
+      "flavors": [
+        "sweet",
+        "fruity"
+      ],
+      "taste": "Sweet and fruity, perfect for a refreshing summer drink."
+    },
+    "12864": {
+      "flavors": [
+        "fruity",
+        "sweet",
+        "spicy",
+        "tropical"
+      ],
+      "taste": "A sweet, fruity punch with a warm, spicy kick, perfect for a festive gathering."
+    },
+    "16289": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Juicy apple cider with a touch of tequila, perfect for a festive fall evening."
+    },
+    "178353": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "A sweet and fruity highball with a hint of ginger, perfect for a refreshing evening drink."
+    },
+    "12564": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Juicy and sweet apple blend with a hint of carrot, perfect for a refreshing mid-day treat."
+    },
+    "16958": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy mixture of apple juice and malibu rum, perfect for a warm autumn evening or a festive party."
+    },
+    "13683": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity mix of lemon-lime soda and apple schnapps, perfect for a quick, refreshing sip to start your day."
+    },
+    "11046": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy apple and sweet citrus blend with a hint of creamy triple sec, perfect for a refreshing night out."
+    },
+    "16311": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy finish, perfect for a dessert-like evening cocktail."
+    },
+    "11050": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy texture, perfect for a dessert-like cocktail after dinner."
+    },
+    "15849": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy finish, perfect for a festive brunch or after dinner indulgence."
+    },
+    "178319": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy tropical cocktail with hints of pineapple and banana liqueur, perfect for a dessert drink."
+    },
+    "11052": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with a citrus twist, perfect for a warm summer evening."
+    },
+    "14622": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet and creamy cocktail with fruity notes, perfect for a refreshing summer treat."
+    },
+    "17118": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet, fruity slush with tropical notes, perfect for a refreshing summer treat."
+    },
+    "11053": {
+      "flavors": [
+        "fruity",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "A fruity and creamy minty champagne cocktail for a festive, refreshing night out."
+    },
+    "16354": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "fruity"
+      ],
+      "taste": "Sweet and fruity mix, perfect for a melon lover's shot."
+    },
+    "14584": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy mix of vodka and iced tea, perfect for a hot summer day"
+    },
+    "17074": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and tropical blend of fruit juices and cream, perfect for a refreshing summer drink."
+    },
+    "17066": {
+      "flavors": [
+        "sour",
+        "fruity",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "Refreshing mix of vodka, gin, and lime juice, perfect for a hot summer day cocktail."
+    },
+    "11054": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and tangy cocktail with citrus and a hint of orange liqueur, perfect for a festive evening."
+    },
+    "11055": {
+      "flavors": [
+        "sweet",
+        "bitter"
+      ],
+      "taste": "A sweet and bitter cocktail that pairs well with savory dishes and after dinner."
+    },
+    "12870": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A sweet and bitter punch with fruity undertones, perfect for a festive occasion."
+    },
+    "13938": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "refreshing"
+      ],
+      "taste": "Refreshing and slightly sweet, perfect for a hot day cocktail."
+    },
+    "13423": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and soury cocktail with tropical flavors, perfect for a hot summer day."
+    },
+    "13086": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a hot day cocktail."
+    },
+    "17020": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Sweet and creamy herbal mix, perfect for a nightcap or after dinner indulgence."
+    },
+    "12756": {
+      "flavors": [
+        "sour",
+        "fruity",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "A zesty, fruity drink with a refreshing twist, perfect for sunny days and casual sipping."
+    },
+    "178337": {
+      "flavors": [
+        "bitter",
+        "fruity",
+        "spicy"
+      ],
+      "taste": "A spicy, fruity twist on classic Campari with a hint of ginger, perfect for a warm autumn evening cocktail."
+    },
+    "16419": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "Rich and sweet with notes of coffee and cream, perfect for a dessert-like nightcap."
+    },
+    "15266": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy finish, perfect for a refreshing summer cocktail."
+    },
+    "17180": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "citrus"
+      ],
+      "taste": "Aromatic, citrusy, and slightly bitter with a touch of sweetness from maraschino liqueur, perfect for a pre-dinner cocktail."
+    },
+    "14364": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity punch with a citrus kick, perfect for a hot summer day."
+    },
+    "15853": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "sour"
+      ],
+      "taste": "Rich, creamy, sweet layers of Irish cream, orange liqueur, and coffee liqueur. Perfect for dessert moments."
+    },
+    "13332": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "A creamy coffee drink with a sweet, fruity finish, perfect for dessert moments."
+    },
+    "15511": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "tropical",
+        "fruity"
+      ],
+      "taste": "A creamy, sweet and tropical-flavored drink, perfect for a refreshing dessert-like treat."
+    },
+    "17079": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "Rich and creamy Irish coffee blend, perfect for a nightcap or after dinner indulgence."
+    },
+    "17183": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy mix of light rum, lime, and sweet grenadine, perfect for a tropical brunch or after dinner indulgence."
+    },
+    "17267": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet, fruity, creamy drink perfect for a tropical sundown."
+    },
+    "14510": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "dessert"
+      ],
+      "taste": "Rich, creamy blend of Irish cream, vanilla ice-cream, and cream; perfect for dessert indulgence."
+    },
+    "11060": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "A balanced blend of scotch, sweet and dry vermouth with a touch of bitterness, perfect for a nightcap."
+    },
+    "12708": {
+      "flavors": [
+        "sweet",
+        "fruity"
+      ],
+      "taste": "Juicy and sweet, perfect for a refreshing summer treat."
+    },
+    "178320": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy blend of malibu rum, banana liqueur, and pineapple juice, perfect for a tropical treat after dinner."
+    },
+    "11064": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy banana daiquiri, perfect for a tropical treat after dinner."
+    },
+    "12654": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy banana milkshake, perfect for a dessert drink after dinner."
+    },
+    "12656": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy blend of strawberries, banana, yogurt, and milk, perfect for a dessert drink after dinner."
+    },
+    "12658": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy with a fruity apple kick, best enjoyed as a refreshing dessert drink."
+    },
+    "17209": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet and creamy cocktail with tropical fruits, perfect for a refreshing summer drink."
+    },
+    "178317": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Sweet and tangy, perfect for a hot summer day cocktail."
+    },
+    "14071": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy tropical cocktail; perfect for a summer day drinker."
+    },
+    "17195": {
+      "flavors": [
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Juicy peach and champagne blend, perfect for brunch or light appetizers."
+    },
+    "16176": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy texture, perfect for a brunch or dessert cocktail."
+    },
+    "11084": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A sweet and bitter mix of fruit and spirit, perfect for a refreshing summer drink."
+    },
+    "12876": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity tropical blend, perfect for a hot summer day cocktail."
+    },
+    "17184": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with citrus notes, perfect for a nightcap."
+    },
+    "16986": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "fruity"
+      ],
+      "taste": "A sweet and soury cocktail with a hint of citrus, perfect for a warm summer evening."
+    },
+    "13222": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Sweet and creamy Irish cream with a hint of goldschlager, perfect for a dessert after dinner."
+    },
+    "17254": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "creamy"
+      ],
+      "taste": "A fruity and creamy cocktail with a touch of bitter green chartreuse, perfect for a nightcap."
+    },
+    "13282": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "creamy"
+      ],
+      "taste": "Bitter ale with creamy Guinness, perfect for a cold evening drink."
+    },
+    "16403": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "A bitter Guinness mixed with sweet root beer, perfect for a boozy dessert treat after dinner."
+    },
+    "15951": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "A sweet, creamy shake with hints of chocolate and fruit, perfect for a dessert drink after dinner."
+    },
+    "11102": {
+      "flavors": [
+        "sour",
+        "creamy",
+        "coffee"
+      ],
+      "taste": "A creamy, coffee-laced drink with a hint of vodka, perfect for a nightcap."
+    },
+    "11106": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "bitter"
+      ],
+      "taste": "A sweet and fruity cocktail with a touch of bitter sloe gin, perfect for a winter evening."
+    },
+    "16295": {
+      "flavors": [
+        "bitter",
+        "fruity",
+        "citrus",
+        "tropical"
+      ],
+      "taste": "Bitter and fruity with a tropical twist, best enjoyed as a refreshing summer cocktail."
+    },
+    "14356": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "coffee",
+        "sour"
+      ],
+      "taste": "Rich and creamy with hints of coffee and butterscotch, perfect for a dessert-like drink after dinner."
+    },
+    "11112": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A spicy, sweet Bloody Maria with a hint of lemon, perfect for a hot summer night."
+    },
+    "11113": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "Spicy and tangy, perfect for early morning brunch or brunch cocktails."
+    },
+    "178312": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet, fruity, creamy punch with a surprise of blueberries and raisins, perfect for a festive summer gathering."
+    },
+    "17268": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "tropical",
+        "fruity"
+      ],
+      "taste": "A sweet and fruity blend of rum, dark rum, and tropical flavors, perfect for a hot summer day cocktail."
+    },
+    "11117": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity with a tropical twist, perfect for a hot summer day."
+    },
+    "11118": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy blend of tequila, blue curacao, and lime, perfect for a tropical cocktail to enjoy after a meal."
+    },
+    "11119": {
+      "flavors": [
+        "bitter",
+        "creamy",
+        "coffee",
+        "tropical"
+      ],
+      "taste": "A complex blend of coffee liqueur, añejo rum, and vodka with a citrus twist, perfect for sipping after dinner."
+    },
+    "178336": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Juicy blueberry and sweet lime flavor with a refreshing soda finish, perfect for a summer cocktail."
+    },
+    "11120": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity cocktail with tropical notes, perfect for a summer evening or a festive occasion."
+    },
+    "13395": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet and fruity creamy cocktail, perfect for a dessert moment with midori melon liqueur and golden drops."
+    },
+    "11121": {
+      "flavors": [
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A sweet, bitter, and fruity twist cocktail best enjoyed before a meal."
+    },
+    "17242": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy",
+        "spicy"
+      ],
+      "taste": "Sweet, fruity, creamy gin cocktail with a spicy kick, perfect for a warm summer evening."
+    },
+    "11124": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "sweet"
+      ],
+      "taste": "A bitter-sweet cocktail with a hint of maraschino liqueur, perfect for after dinner indulgence."
+    },
+    "17221": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical",
+        "dessert"
+      ],
+      "taste": "Sweet, creamy, tropical milkshake with chocolate and caramel notes, perfect for dessert drinks."
+    },
+    "12572": {
+      "flavors": [
+        "fruity",
+        "tropical",
+        "sweet"
+      ],
+      "taste": "A tropical blend of pineapple, passion fruit, and lemon with a touch of sweetness, perfect for a refreshing evening drink."
+    },
+    "11128": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with citrus notes, perfect for a brunch or after dinner indulgence."
+    },
+    "11129": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "bitter"
+      ],
+      "taste": "A tangy, sweet, and creamy cocktail with a hint of bitterness, perfect for a brunch or after dinner indulgence."
+    },
+    "17251": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "creamy"
+      ],
+      "taste": "A balanced blend of bitter Campari and sweet vermouth, served cold for a sophisticated after-dinner drink."
+    },
+    "178331": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "tropical",
+        "creamy"
+      ],
+      "taste": "A sweet and tropical cocktail with a creamy finish, perfect for a refreshing summer drink."
+    },
+    "11146": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet, fruity and citrusy blend of bourbon, sugar, water, and lemon juice, perfect for a refreshing summer cocktail."
+    },
+    "11147": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A sweet and tangy bourbon cocktail with a hint of citrus, perfect for a refreshing summer drink."
+    },
+    "11149": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a brunch cocktail to start your day."
+    },
+    "178372": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "creamy"
+      ],
+      "taste": "A sweet and creamy cocktail with a spicy kick, perfect for sipping after dinner."
+    },
+    "17120": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with citrus notes, perfect for a hot summer day."
+    },
+    "13405": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet, creamy, tropical flavors; perfect for dessert moments."
+    },
+    "17210": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "citrus",
+        "creamy"
+      ],
+      "taste": "A fruity and creamy Bramble with a touch of bitter lemon and creme de mure, perfect for a refreshing summer cocktail."
+    },
+    "16447": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy cola with a hint of bourbon, perfect for a tropical twist dessert drink."
+    },
+    "11016": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Rich and sweet with hints of chocolate and cream, perfect for a dessert-like drink after dinner."
+    },
+    "11157": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "fruity"
+      ],
+      "taste": "Sweet and tangy, perfect for a refreshing summer drink."
+    },
+    "11164": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "A sweet, creamy cocktail with a hint of egg, perfect for a dessert-like treat after dinner."
+    },
+    "11170": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "bitter"
+      ],
+      "taste": "A sweet and tangy sour with a hint of bitterness, perfect for a refreshing brunch cocktail."
+    },
+    "13068": {
+      "flavors": [
+        "sour",
+        "bitter",
+        "spicy"
+      ],
+      "taste": "Hot and spicy tequila shot with a splash of Tabasco, perfect for those who like their shots fiery."
+    },
+    "17825": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Rich and creamy hot chocolate with a hint of green chartreuse, perfect for a winter treat."
+    },
+    "178311": {
+      "flavors": [
+        "bitter",
+        "spicy",
+        "sweet",
+        "creamy"
+      ],
+      "taste": "A spicy, sweet, creamy dram with a hint of bitterness, perfect for sipping after dinner."
+    },
+    "178310": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "sweet"
+      ],
+      "taste": "A complex blend of rye whiskey, dry vermouth, maraschino liqueur, and bitters, perfect for a winter evening cocktail."
+    },
+    "13066": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Sweet and creamy, like chocolate milk, perfect for dessert drinks."
+    },
+    "16998": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy finish, perfect for a dessert-like drink after dinner."
+    },
+    "14730": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy with fruity notes, perfect for a dessert-like drink after dinner."
+    },
+    "17035": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity corona with a hint of tropical Bacardi Limon, perfect for a refreshing summer cocktail."
+    },
+    "14538": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "Rich, creamy Irish cream layered with coffee liqueur and a hint of sambuca, perfect for a nightcap or after dinner indulgence."
+    },
+    "17220": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "sour"
+      ],
+      "taste": "Rich and creamy with a sweet vanilla finish, perfect for a dessert-like evening drink."
+    },
+    "178356": {
+      "flavors": [
+        "fruity",
+        "sweet",
+        "citrus",
+        "creamy"
+      ],
+      "taste": "A fruity and creamy cocktail with sweet and citrus notes, perfect for a refreshing summer drink."
+    },
+    "14181": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A creamy, sweet blend of coffee, milk, triple sec, and brandy. Perfect for a nightcap."
+    },
+    "11202": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Juicy lime and sweet, perfect for a hot day cocktail."
+    },
+    "13206": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A creamy, sweet and fruity drink with hints of lime, perfect for a tropical treat."
+    },
+    "11205": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "A sweet and fruity cocktail with a hint of whiskey, perfect for a hot summer day."
+    },
+    "14282": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy with a hint of root beer, perfect for a tropical twist in the afternoon."
+    },
+    "16047": {
+      "flavors": [
+        "bitter",
+        "sweet"
+      ],
+      "taste": "A bitter and sweet mix, perfect for evening sipping with beer."
+    },
+    "178329": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy mix of tropical fruits, lime, and Caribbean rum, perfect for a hot summer day."
+    },
+    "17065": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy Corona with light rum, perfect for a tropical finish after a meal."
+    },
+    "12796": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "tropical"
+      ],
+      "taste": "A fruity and tropical cocktail with a hint of sweetness and a touch of orange zest, perfect for sipping on a sunny day."
+    },
+    "11222": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy tropical blend, perfect for a festive brunch or after dinner indulgence."
+    },
+    "17185": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A sweet and tangy cocktail with a hint of maraschino liqueur, perfect for a night out on the town."
+    },
+    "11224": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A creamy, sour cocktail with a sweet, fruity, and citrusy twist, perfect for a tropical treat after a meal."
+    },
+    "12730": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Rich, creamy hot chocolate with a hint of sweetness, perfect for a warm evening treat."
+    },
+    "11227": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy with a hint of bittersweet cognac, perfect for a festive evening cocktail."
+    },
+    "17174": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy mix of sweet cherry, tangy lemon, and spicy tequila, perfect for a hot summer day cocktail."
+    },
+    "11239": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy, perfect for a nightcap or after dinner indulgence."
+    },
+    "11242": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet, creamy, and fruity with a hint of citrus, perfect for a refreshing summer drink."
+    },
+    "12732": {
+      "flavors": [
+        "creamy",
+        "sweet"
+      ],
+      "taste": "Rich and creamy with a hint of chocolate and a touch of sweetness, best enjoyed as a comforting nightcap."
+    },
+    "11243": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A creamy Black Russian with hints of coffee and sweetness, perfect for dessert moments."
+    },
+    "12734": {
+      "flavors": [
+        "creamy",
+        "sweet"
+      ],
+      "taste": "Rich and creamy with a hint of sweetness, perfect for a warm night treat."
+    },
+    "13328": {
+      "flavors": [
+        "creamy",
+        "sweet"
+      ],
+      "taste": "Rich and creamy with a hint of almond sweetness, perfect for a dessert-like drink to end a meal."
+    },
+    "15615": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical",
+        "dessert"
+      ],
+      "taste": "Rich and creamy with hints of chocolate and banana, perfect for a dessert-like treat after dinner."
+    },
+    "17135": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a refreshing summer treat."
+    },
+    "11251": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and citrusy cocktail, perfect for a sunny afternoon."
+    },
+    "11145": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "creamy"
+      ],
+      "taste": "A balanced mix of sweet, bitter, and creamy notes, perfect for sipping after dinner"
+    },
+    "11255": {
+      "flavors": [
+        "sweet",
+        "bitter",
+        "fruity",
+        "herbal"
+      ],
+      "taste": "A sweet, herbal cocktail with a touch of fruitiness and a hint of spice from sloe gin, perfect for a winter evening."
+    },
+    "17186": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet, creamy, fruity gin cocktail; perfect for after dinner indulgence."
+    },
+    "178369": {
+      "flavors": [
+        "bitter",
+        "fruity",
+        "spicy"
+      ],
+      "taste": "A spicy, fruity cocktail with a touch of bitterness, perfect for sipping after dinner."
+    },
+    "12798": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "coffee"
+      ],
+      "taste": "Rich, sweet coffee with a hint of vanilla, perfect for a nightcap or dessert drink."
+    },
+    "12800": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "Rich, creamy coffee with hints of vanilla and subtle sweetness, perfect for a nightcap or after dinner indulgence."
+    },
+    "17108": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and tangy drink, perfect for a refreshing summer treat."
+    },
+    "17830": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "Juicy lime and sweet falernum balanced with bitter bitters and fruity blackstrap rum, perfect for a tropical cocktail to enjoy after a meal."
+    },
+    "17250": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A complex mix of sweet, bitter citrus, and creamy notes, perfect for a pre-dinner cocktail."
+    },
+    "17196": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "sweet"
+      ],
+      "taste": "Juicy blend of citrus and sweet, perfect for a hot day cocktail."
+    },
+    "14133": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and tangy, perfect for a hot summer day cocktail."
+    },
+    "12802": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "tropical"
+      ],
+      "taste": "Sweet and tangy cordial, perfect for a festive winter cocktail."
+    },
+    "12890": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Juicy cranberry and pineapple with a touch of almond, served cold for a refreshing treat."
+    },
+    "14608": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "creamy"
+      ],
+      "taste": "Spiced rum and ginger ale blend with a creamy, slightly bitter finish. Perfect for a warm day."
+    },
+    "12808": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Sweet, creamy, minty drink; perfect for a cool summer evening"
+    },
+    "13751": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Tangy and sweet cola with a hint of lime, perfect for a refreshing summer drink."
+    },
+    "11288": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Tangy and sweet cola with a hint of lime, perfect for a hot day."
+    },
+    "11006": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A light, sweet and tangy Daiquiri, perfect for a hot summer day cocktail."
+    },
+    "13194": {
+      "flavors": [
+        "bitter",
+        "spicy"
+      ],
+      "taste": "Bitter and spicy, best enjoyed before a spicy meal."
+    },
+    "15409": {
+      "flavors": [
+        "coffee",
+        "creamy"
+      ],
+      "taste": "A strong, creamy coffee drink infused with the sharpness of Everclear, best enjoyed in the morning for a bold start."
+    },
+    "17211": {
+      "flavors": [
+        "sour",
+        "bitter",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A dark and stormy with dark rum and ginger beer, perfect for a cold evening cocktail."
+    },
+    "17177": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet, fruity and citrusy caipirinha with a hint of lime, perfect for a hot summer day."
+    },
+    "14482": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sour, sweet, fruity, creamy blend with a hint of cherry, perfect for a refreshing summer drink."
+    },
+    "178334": {
+      "flavors": [
+        "bitter",
+        "creamy",
+        "sour"
+      ],
+      "taste": "Bitter absinthe with a creamy finish, best enjoyed mid-afternoon for its unique effect."
+    },
+    "17187": {
+      "flavors": [
+        "fruity",
+        "herbal",
+        "bitter"
+      ],
+      "taste": "A fruity and herbal gin cocktail with a minty kick, perfect for a refreshing summer evening."
+    },
+    "13128": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "tropical"
+      ],
+      "taste": "A dark, bitter lager with sweet blackcurrant and a tropical finish, perfect for a nightcap."
+    },
+    "17181": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Bitter and slightly sweet, perfect for a night out or cocktail party."
+    },
+    "14466": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "dessert"
+      ],
+      "taste": "A creamy, coffee-infused shot with a hint of sambuca, perfect for dessert drinks."
+    },
+    "16991": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Juicy and sweet with hints of fruit punch and tequila, perfect for a fun, fruity finish after a meal."
+    },
+    "11320": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with a citrus twist, perfect for a hot summer day."
+    },
+    "12736": {
+      "flavors": [
+        "creamy",
+        "sweet"
+      ],
+      "taste": "Rich and creamy with hints of vanilla and chocolate, perfect for a dessert-like treat after dinner."
+    },
+    "11005": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "creamy"
+      ],
+      "taste": "Bitter and slightly creamy, perfect for a sophisticated evening drink."
+    },
+    "11324": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Bitter Scotch with a touch of sweet vermouth, perfect for after dinner drinks."
+    },
+    "11326": {
+      "flavors": [
+        "bitter",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A balanced cocktail with hints of fruit and a touch of bitters, perfect for a warm summer evening."
+    },
+    "17182": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity punch with lime, pineapple, and lavender, perfect for a tropical brunch or after dinner indulgence."
+    },
+    "12668": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy blend, perfect for a dessert-like treat after dinner."
+    },
+    "12910": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet, creamy, and tropical notes from milk, rum, and bourbon; perfect for a festive winter treat."
+    },
+    "12916": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy, perfect for a festive winter treat after a meal."
+    },
+    "12914": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Rich, creamy and sweet, perfect for a warm winter night cocktail."
+    },
+    "178346": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "herbal",
+        "tropical"
+      ],
+      "taste": "A sweet and herbal Caipirinha with a tropical twist, perfect for a hot summer day."
+    },
+    "17246": {
+      "flavors": [
+        "spicy",
+        "creamy",
+        "tropical",
+        "sweet"
+      ],
+      "taste": "A rich, spicy mezcal with chocolate, coffee, and tropical notes, perfect for a dessert-meets-spice cocktail."
+    },
+    "11338": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet with a hint of citrus, perfect for a refreshing summer drink."
+    },
+    "11339": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "sweet"
+      ],
+      "taste": "A fruity and slightly bitter cocktail with a touch of sweetness, perfect for a sweet and tangy aperitif."
+    },
+    "17212": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A creamy espresso with a touch of sweetness, perfect for a nightcap or after dinner indulgence."
+    },
+    "178309": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A creamy, sweet espresso rum drink perfect for a dessert after dinner."
+    },
+    "13070": {
+      "flavors": [
+        "spicy",
+        "tropical"
+      ],
+      "taste": "A fiery, tropical cocktail with a spicy kick, perfect for sipping on a hot day."
+    },
+    "178344": {
+      "flavors": [
+        "fruity",
+        "creamy",
+        "herbal",
+        "tropical"
+      ],
+      "taste": "A tropical fig and thyme cocktail with a hint of honey and vodka, perfect for a warm summer evening."
+    },
+    "13202": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet, creamy, fruity mix; perfect for a festive after-party"
+    },
+    "16485": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet",
+        "tropical"
+      ],
+      "taste": "A creamy coffee liqueur drink with tropical notes, perfect for a night out on the town."
+    },
+    "13675": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Sweet, creamy sambuca with herbal sarsaparilla, perfect for a cold night cocktail."
+    },
+    "11368": {
+      "flavors": [
+        "sour",
+        "sweet"
+      ],
+      "taste": "A sweet and sour gin and triple sec cocktail, perfect for a night out on the town."
+    },
+    "11369": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "sour",
+        "creamy"
+      ],
+      "taste": "A balanced blend of smoky scotch, sweet vermouth, and a touch of bitters, perfect for a nightcap."
+    },
+    "11375": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Sweet and creamy, perfect for a dessert-like drink to end a meal."
+    },
+    "12768": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A creamy, sweet coffee drink with a frothy texture, perfect for a cold afternoon treat."
+    },
+    "14688": {
+      "flavors": [
+        "spicy",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Spicy, creamy, herbal shot; perfect for dark evenings or parties."
+    },
+    "17197": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and tangy gin cocktail topped with effervescent champagne, perfect for a celebratory evening."
+    },
+    "17198": {
+      "flavors": [
+        "bitter",
+        "creamy",
+        "sweet"
+      ],
+      "taste": "Bittersweet and creamy, perfect for after dinner indulgence."
+    },
+    "17213": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with a citrus twist, perfect for a summer evening cocktail."
+    },
+    "17248": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A bitter, sweet, fruity, creamy cocktail for after dinner, with hints of citrus and vermouth."
+    },
+    "11382": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and soury cocktail with citrus notes, perfect for a refreshing after-dinner drink."
+    },
+    "178352": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity cocktail, perfect for a refreshing summer treat."
+    },
+    "11387": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a hot summer day cocktail."
+    },
+    "11390": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "herbal",
+        "tropical"
+      ],
+      "taste": "A sweet, minty daiquiri with a tropical twist, perfect for a refreshing summer treat."
+    },
+    "11391": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy texture, perfect for a refreshing summer treat."
+    },
+    "12670": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "sweet"
+      ],
+      "taste": "Juicy and refreshing blend of apple and lemon with a touch of sweetness, perfect for a hot summer day."
+    },
+    "12672": {
+      "flavors": [
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Yogurt and fruit juice blend, perfect for a refreshing summer treat"
+    },
+    "12674": {
+      "flavors": [
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Yogurt, banana, and orange juice blend into a creamy, fruity drink perfect for a sweet mid-day treat."
+    },
+    "178328": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity cocktail with a tropical twist, perfect for a warm summer evening."
+    },
+    "15743": {
+      "flavors": [
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A sweet, hot blend of coffee and peach schnapps, perfect for a warm night."
+    },
+    "12758": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "sweet"
+      ],
+      "taste": "A fruity and citrusy cocktail with a sweet finish, perfect for a summer evening or as a dessert drink."
+    },
+    "178340": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "fruity"
+      ],
+      "taste": "Bitter and fruity notes from gin and orange juice, perfect for after-lunch refreshment."
+    },
+    "11396": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet and bitter cocktail with a creamy finish, perfect for a nightcap."
+    },
+    "15997": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy with a hint of ginger, perfect for a refreshing end to a meal."
+    },
+    "17002": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity tropical cocktail with hints of melon and tequila, perfect for a hot summer day."
+    },
+    "17255": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A tart, sweet, and refreshing mix of gin, lime juice, and simple syrup, perfect for a hot summer day."
+    },
+    "178342": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "refreshing"
+      ],
+      "taste": "A crisp, sweet cocktail with a refreshing twist, perfect for a hot summer day."
+    },
+    "11403": {
+      "flavors": [
+        "sour",
+        "bitter",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Refreshing and slightly sweet, perfect for a hot summer day."
+    },
+    "178314": {
+      "flavors": [
+        "herbal",
+        "fruity",
+        "sour"
+      ],
+      "taste": "Herbal and fruity with a hint of basil, perfect for a hot summer day cocktail."
+    },
+    "11407": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a hot summer day cocktail."
+    },
+    "11408": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and tangy gin cocktail with citrus and a hint of sweetness, perfect for a summer afternoon."
+    },
+    "11410": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a sunny afternoon cocktail."
+    },
+    "178366": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A zesty mix of gin, lemon juice, and ice, perfect for a refreshing summer drink."
+    },
+    "17230": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a hot summer day cocktail."
+    },
+    "11415": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A tart and sweet gin cocktail with citrus and sugar, perfect for a hot summer day."
+    },
+    "11416": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a hot summer day cocktail."
+    },
+    "11417": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A tart and sweet gin cocktail with citrusy notes, perfect for a brunch or after dinner treat."
+    },
+    "11418": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity gin cocktail with a creamy texture, perfect for a summer mocktail."
+    },
+    "11419": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet with a hint of gin, perfect for a hot summer day."
+    },
+    "11420": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy, perfect for a warm winter night."
+    },
+    "178365": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "refreshing"
+      ],
+      "taste": "A crisp gin tonic with a touch of sweetness, perfect for a hot summer day."
+    },
+    "17175": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet, fruity cachaca base with a tropical twist, perfect for a refreshing summer cocktail to enjoy after a meal."
+    },
+    "12944": {
+      "flavors": [
+        "sweet",
+        "spicy",
+        "tropical"
+      ],
+      "taste": "Sweet and spicy red wine drink, perfect for winter evenings and warm drinks."
+    },
+    "11422": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy, perfect for a dessert-like drink to enjoy after dinner."
+    },
+    "11423": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Bittersweet and creamy, perfect for after dinner indulgence."
+    },
+    "11424": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Sweet and creamy amaretto with a hint of vodka, perfect for a dessert-like after-dinner drink."
+    },
+    "17199": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy with a hint of orange, perfect for a brunch or after dinner treat."
+    },
+    "15427": {
+      "flavors": [
+        "fruity",
+        "tropical",
+        "sweet"
+      ],
+      "taste": "A tropical fruity drink with sweet peach and malibu, perfect for a summer evening cocktail."
+    },
+    "12712": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "tropical"
+      ],
+      "taste": "Juicy and tangy, perfect for a hot summer day cocktail."
+    },
+    "11433": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and tropical cocktail with pineapple, perfect for a hot summer day."
+    },
+    "17200": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "herbal"
+      ],
+      "taste": "Rich, creamy, minty and chocolatey, perfect for a dessert-like treat after dinner."
+    },
+    "13497": {
+      "flavors": [
+        "fruity",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A tropical fruity drink with a creamy lager finish, perfect for a summer evening cocktail."
+    },
+    "17252": {
+      "flavors": [
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A refreshing blend of vodka and grapefruit, perfect for a hot summer day cocktail."
+    },
+    "14642": {
+      "flavors": [
+        "coffee",
+        "sweet",
+        "tropical"
+      ],
+      "taste": "A rich, sweet, and tropical cocktail with coffee and grenadine, perfect for dessert drinks."
+    },
+    "12762": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "coffee",
+        "tropical"
+      ],
+      "taste": "A creamy, sweet coffee drink with a tropical twist, perfect for a nightcap."
+    },
+    "16262": {
+      "flavors": [
+        "creamy",
+        "sweet"
+      ],
+      "taste": "A creamy, sweet cocktail with coffee, perfect for a nightcap."
+    },
+    "178313": {
+      "flavors": [
+        "spicy",
+        "herbal",
+        "tropical",
+        "warm"
+      ],
+      "taste": "Spicy tropical punch with hints of ginger and clove, perfect for adults on Halloween night."
+    },
+    "12766": {
+      "flavors": [
+        "spicy",
+        "tropical",
+        "creamy"
+      ],
+      "taste": "Tastes like a creamy tropical soda, perfect for a sunny day cocktail."
+    },
+    "11462": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Sweet and citrusy, perfect for a sunny afternoon cocktail."
+    },
+    "11470": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity drink with a tropical twist, perfect for a hot summer day."
+    },
+    "11472": {
+      "flavors": [
+        "tropical",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "A tropical blend of gin, triple sec, and pineapple, perfect for a sunny afternoon cocktail."
+    },
+    "17201": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and tangy cocktail with grapefruit and lime, perfect for a refreshing summer drink."
+    },
+    "15813": {
+      "flavors": [
+        "herbal",
+        "tropical"
+      ],
+      "taste": "Herbal and tropical, perfect for a warm summer day cocktail."
+    },
+    "11476": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A balanced blend of scotch, sweet vermouth, and orange bitters, perfect for a winter evening cocktail."
+    },
+    "12954": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity punch with a creamy texture, perfect for a summer party."
+    },
+    "17044": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "coffee"
+      ],
+      "taste": "Rich, creamy Kahlua with hints of coffee and vanilla, perfect for dessert drinks."
+    },
+    "178316": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Sweet and tangy with a hint of lemon, perfect for a refreshing summer drink."
+    },
+    "17202": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A sweet and tangy drink with a spicy kick, perfect for a festive evening."
+    },
+    "12738": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Rich and creamy with hints of vanilla and chocolate, perfect for a warm and indulgent nightcap."
+    },
+    "14782": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A sweet and creamy blend of irish whiskey, irish cream, and coffee, perfect for a warm night treat."
+    },
+    "178345": {
+      "flavors": [
+        "sweet",
+        "bitter",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet, bitter, and fruity cocktail with a warm, spicy kick, perfect for a chilly evening."
+    },
+    "17239": {
+      "flavors": [
+        "fruity",
+        "sweet",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "A sweet, fruity, citrusy cocktail perfect for a warm summer evening."
+    },
+    "13539": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Tangy and sweet, best for a refreshing summer drink."
+    },
+    "12770": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "coffee"
+      ],
+      "taste": "Rich, creamy coffee with a touch of sweetness, perfect for a comforting drink in the morning or evening."
+    },
+    "12772": {
+      "flavors": [
+        "coffee",
+        "sour"
+      ],
+      "taste": "A rich, coffee liqueur infused drink, perfect for a cool afternoon treat."
+    },
+    "12706": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy lime and sweet aperol cocktail, perfect for a summer brunch or after dinner indulgence."
+    },
+    "11524": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy mix of light rum, whiskey, and lemon with a touch of sweetness and a zesty citrus twist, perfect for a hot summer day."
+    },
+    "17176": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and tangy cocktail with lime, passion fruit, and a hint of ginger, perfect for a hot day."
+    },
+    "13971": {
+      "flavors": [
+        "sweet",
+        "bitter",
+        "creamy"
+      ],
+      "taste": "Sweet, bitter Irish whiskey with creamy coffee, perfect for a warm winter's night."
+    },
+    "12820": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Sweet and creamy Irish Cream, perfect for dessert drinks."
+    },
+    "16987": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet, creamy Irish Cream with a hint of citrus, perfect for a dessert-like drink after dinner."
+    },
+    "17015": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "tropical"
+      ],
+      "taste": "A creamy, coffee-infused drink with a tropical twist, perfect for a nightcap after dinner."
+    },
+    "11528": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with citrus notes, perfect for a warm summer evening."
+    },
+    "11542": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "tropical"
+      ],
+      "taste": "Sweet and tangy, perfect for a fruity finish after a meal."
+    },
+    "16275": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy cola with a hint of vanilla, perfect for a warm summer day."
+    },
+    "13847": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Bitter amaretto cuts through sweet Jack Daniels, best in a smoky bar before a night out."
+    },
+    "17178": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Rich, creamy Irish cream with sweet raspberry, perfect for a dessert cocktail."
+    },
+    "14095": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "tropical"
+      ],
+      "taste": "A creamy, coffee-infused drink with a tropical twist, perfect for a warm summer evening."
+    },
+    "15825": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "coffee"
+      ],
+      "taste": "Rich and creamy with a hint of coffee, perfect for a sweet and indulgent nightcap."
+    },
+    "11558": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet, creamy Japanese Fizz with citrus and a hint of port, perfect for a dessert-like evening drink."
+    },
+    "14956": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy, best served as a refreshing summer treat"
+    },
+    "13775": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "tastes just like a jelly bean! sweet and creamy with a hint of anis and blackberry brandy, perfect for a sweet finish after a meal"
+    },
+    "11566": {
+      "flavors": [
+        "herbal",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Herbal and fruity with a tropical twist, perfect for a hot summer day cocktail."
+    },
+    "16178": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a festive after-party."
+    },
+    "11580": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Bitter and sweet with citrus notes, perfect for a hot summer day."
+    },
+    "12688": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "A sweet and creamy drink with a hint of fruity mint, perfect for a dessert-like treat after dinner."
+    },
+    "11600": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A tangy, sweet, and bitter cocktail perfect for a night out, with a splash of lime."
+    },
+    "12764": {
+      "flavors": [
+        "coffee",
+        "sweet"
+      ],
+      "taste": "Rich and sweet with a hint of alcohol, perfect for a nightcap or special occasion."
+    },
+    "11602": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Bitter and sweet, perfect for after dinner drinks."
+    },
+    "11604": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "creamy"
+      ],
+      "taste": "A balanced blend of bourbon and Benedictine, perfect for a sophisticated after-dinner drink."
+    },
+    "12720": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "herbal"
+      ],
+      "taste": "A spicy, sweet, and fruity ginger lemon drink, perfect for warming and refreshing on a chilly day."
+    },
+    "16951": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A rich, creamy blend of coffee liqueur and brandy, perfect for a sweet, indulgent nightcap."
+    },
+    "17203": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity cassis base with effervescent champagne, perfect for a dessert-like drink to end a meal."
+    },
+    "13837": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "creamy"
+      ],
+      "taste": "A fruity and creamy Kir Royale, perfect for a sweet and bubbly brunch drink."
+    },
+    "15026": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity cocktail, perfect for a refreshing summer drink."
+    },
+    "14752": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "citrus"
+      ],
+      "taste": "A zesty mix of kiwi liqueur and bitter lemon, perfect for a refreshing summer drink."
+    },
+    "178359": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "sour"
+      ],
+      "taste": "A delightful fruity and citrusy green martini, perfect for a refreshing summer evening."
+    },
+    "12714": {
+      "flavors": [
+        "fruity",
+        "sour"
+      ],
+      "taste": "Juicy and sweet, perfect for a refreshing breakfast or snack."
+    },
+    "17006": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "herbal",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity tropical punch, perfect for a refreshing summer day."
+    },
+    "13190": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity shot with cranberry, perfect for a refreshing summer drink."
+    },
+    "14446": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A sweet, creamy tropical drink that's perfect for a refreshing summer cocktail."
+    },
+    "14456": {
+      "flavors": [
+        "sweet",
+        "tropical"
+      ],
+      "taste": "Sweet and tropical, perfect for a warm day tea cocktail."
+    },
+    "11634": {
+      "flavors": [
+        "sour",
+        "creamy",
+        "fruity",
+        "sweet"
+      ],
+      "taste": "Juicy, creamy, and slightly sweet with a hint of lemon, perfect for a refreshing summer cocktail."
+    },
+    "12690": {
+      "flavors": [
+        "fruity",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "A creamy, fruity, herbal drink that pairs well with spicy food and is best enjoyed cold as a refreshing palate cleanser."
+    },
+    "12698": {
+      "flavors": [
+        "fruity",
+        "sweet"
+      ],
+      "taste": "Mango and yogurt blend with a touch of sweetness, perfect for a refreshing summer drink."
+    },
+    "12696": {
+      "flavors": [
+        "sweet"
+      ],
+      "taste": "Sweet and creamy, perfect for a refreshing summer treat."
+    },
+    "12692": {
+      "flavors": [
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Yogurt and asafoetida blended creamy, perfect for a spicy start to the day."
+    },
+    "12694": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "fruity",
+        "refreshing"
+      ],
+      "taste": "A creamy, sweet, fruity, refreshing drink that pairs well with spicy foods in the summer."
+    },
+    "178335": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "creamy"
+      ],
+      "taste": "A tropical, fruity drink with a creamy coconut finish, perfect for a hot summer day."
+    },
+    "14366": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and citrusy mix of vodka, triple sec, and lemon; perfect for a refreshing after-work drink."
+    },
+    "178360": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "A fruity and citrusy spritzer, perfect for a refreshing summer drink."
+    },
+    "12752": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet, fruity lemon shot with a hint of absinthe, perfect for a refreshing summer cocktail."
+    },
+    "12702": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "spicy",
+        "tropical"
+      ],
+      "taste": "A spicy, tropical cocktail with a touch of bitterness and sweetness, perfect for sipping on a hot day."
+    },
+    "12704": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A tart, sweet, citrusy drink perfect for a hot day or as a palate cleanser between meals."
+    },
+    "15086": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "A refreshing blend of citrus and tropical flavors, perfect for a hot day."
+    },
+    "11658": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "A balanced blend of Scotch, sweet Drambuie, and tangy vermouth, perfect for a sophisticated after-dinner drink."
+    },
+    "11662": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A sweet and bitter cocktail with fruity notes, perfect for after dinner indulgence."
+    },
+    "11664": {
+      "flavors": [
+        "sweet",
+        "bitter"
+      ],
+      "taste": "A sweet and bitter cocktail, perfect for sipping after dinner."
+    },
+    "11666": {
+      "flavors": [
+        "sweet",
+        "bitter",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet, bitter, fruity, creamy cocktail for a refreshing summer drink."
+    },
+    "17204": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy tropical cocktail, perfect for hot summer days."
+    },
+    "11002": {
+      "flavors": [
+        "fruity",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A tropical blend of vodka, rum, gin, tequila, lemon, and cola, perfect for a refreshing summer drink."
+    },
+    "13196": {
+      "flavors": [
+        "sour",
+        "fruity",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "A zesty, citrusy vodka drink perfect for a hot summer day."
+    },
+    "11670": {
+      "flavors": [
+        "bitter",
+        "creamy",
+        "coffee"
+      ],
+      "taste": "A rich, bitter cocktail with creamy coffee notes, perfect for a nightcap after dinner."
+    },
+    "14378": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "A sweet, creamy, fruity drink that pairs well with lunch and dessert moments."
+    },
+    "11690": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A sweet, creamy tropical cocktail with hints of orgeat and triple sec, perfect for a sunny day."
+    },
+    "15224": {
+      "flavors": [
+        "fruity",
+        "tropical",
+        "sweet"
+      ],
+      "taste": "A sweet, fruity, tropical cocktail perfect for a warm summer day."
+    },
+    "178358": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "Juicy and refreshing, perfect for a hot day cocktail."
+    },
+    "12716": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity tropical drink, perfect for a refreshing summer treat."
+    },
+    "11008": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "A balanced mix of sweet vermouth, bourbon, and a touch of bitters, perfect for a nightcap."
+    },
+    "11007": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A tart and sweet margarita with citrus and tequila, perfect for sipping after a meal."
+    },
+    "17256": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A complex blend of sweet vermouth, maraschino liqueur, and a touch of bitters, perfect for a nightcap or after dinner indulgence."
+    },
+    "11720": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "A tangy, sweet, and slightly bitter cocktail best enjoyed before a meal."
+    },
+    "11728": {
+      "flavors": [
+        "sour",
+        "bitter",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A dry, herbal and slightly sweet gin and vermouth cocktail, perfect for a pre-dinner drink or evening aperitif."
+    },
+    "17188": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy finish, perfect for a tropical brunch or after dinner indulgence."
+    },
+    "12774": {
+      "flavors": [
+        "spicy",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Spicy chai tea with creamy milk, perfect for a warm and comforting drink."
+    },
+    "178370": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy with tropical notes, perfect for a relaxed evening drink."
+    },
+    "12776": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A creamy, coffee-based drink with a sweet, honey-cocoa coating, perfect for a dessert-like treat after dinner."
+    },
+    "13936": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet and creamy blend of rum, pineapple, and lime, perfect for a tropical afternoon cocktail."
+    },
+    "178343": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A salty, citrusy beer drink perfect for game day or a casual gathering."
+    },
+    "12744": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Rich, creamy hot cocoa with a hint of sweetness, perfect for a warm winter drink."
+    },
+    "11766": {
+      "flavors": [
+        "bitter",
+        "creamy",
+        "sweet"
+      ],
+      "taste": "A rich, sweet and bitter blend of bourbon, rum, and cream, perfect for a nightcap."
+    },
+    "13825": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A creamy Irish coffee with sweet liqueurs, perfect for a nightcap."
+    },
+    "14842": {
+      "flavors": [
+        "creamy",
+        "herbal",
+        "sweet"
+      ],
+      "taste": "Rich and creamy with minty sweetness, perfect for a dessert-like treat after dinner."
+    },
+    "17205": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy blend of champagne and orange juice, perfect for brunch or festive gatherings."
+    },
+    "17206": {
+      "flavors": [
+        "herbal",
+        "sweet",
+        "refreshing"
+      ],
+      "taste": "A sweet, refreshing minty drink perfect for hot summer days."
+    },
+    "11786": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy mix of fruits and spirits, perfect for a hot summer day cocktail."
+    },
+    "14209": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "fruity",
+        "sour"
+      ],
+      "taste": "A creamy, sweet mocha with a fruity twist, perfect for a dessert-like evening drink."
+    },
+    "11000": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "herbal"
+      ],
+      "taste": "Refreshing and slightly sweet, perfect for a hot summer day cocktail."
+    },
+    "15841": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "bitter"
+      ],
+      "taste": "Refreshing and slightly sweet mojito with dark rum, perfect for hot summer days."
+    },
+    "17189": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity cocktail with a tropical twist, perfect for a warm summer evening."
+    },
+    "11798": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "bitter"
+      ],
+      "taste": "A fruity and citrusy drink with a touch of bitterness, perfect for a brunch or early evening cocktail."
+    },
+    "16196": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "tropical",
+        "creamy"
+      ],
+      "taste": "A creamy, tropical cocktail with a sweet, tequila base and a splash of absinthe, perfect for sipping after dark."
+    },
+    "11009": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Refreshing and slightly sweet, perfect for a hot summer day cocktail."
+    },
+    "14053": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Rich, sweet, tropical flavors; perfect for a warm night dessert drink."
+    },
+    "178355": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Juicy blackberries with a sweet, refreshing finish, perfect for a hot summer day cocktail."
+    },
+    "16041": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Tangy and sweet, perfect for a hot summer party."
+    },
+    "12988": {
+      "flavors": [
+        "sweet",
+        "spicy",
+        "tropical",
+        "warm"
+      ],
+      "taste": "Warm and spiced with hints of tropical fruits, perfect for a cozy evening drink."
+    },
+    "178315": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Refreshing and slightly sweet, perfect for a hot summer day cocktail."
+    },
+    "13192": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy mix of rum, vodka, and blue curacao with a hint of lemon-lime soda, perfect for a hot summer day."
+    },
+    "11003": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Bitter and sweet notes from gin, campari, and vermouth, perfect for a nightcap."
+    },
+    "13204": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "sweet"
+      ],
+      "taste": "A sweet and fruity citrus cocktail, perfect for a hot summer day."
+    },
+    "11844": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and soury cocktail with citrus notes, perfect for a boozy brunch or after dinner indulgence."
+    },
+    "12746": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Rich, creamy hot chocolate with a touch of sweetness, perfect for a warm night"
+    },
+    "13861": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Sweet and creamy Irish Cream with a hint of frangelico, perfect for a dessert drink over ice."
+    },
+    "17266": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A sweet, creamy, and tropical-flavored drink reminiscent of an oatmeal cookie, perfect for dessert moments."
+    },
+    "178371": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and citrusy drink with mint and prosecco, perfect for a tropical dessert moment."
+    },
+    "11001": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Bittersweet and syrupy, perfect for sipping after dinner"
+    },
+    "17827": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A balanced mix of rye whiskey, campari, and dry vermouth, perfect for a night out or a special occasion."
+    },
+    "15330": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Juicy and sweet, perfect for a tropical brunch treat."
+    },
+    "11870": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "tropical"
+      ],
+      "taste": "Juicy and tropical, perfect for a refreshing summer drink."
+    },
+    "14586": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "fruity"
+      ],
+      "taste": "Sweet and tangy, perfect for a festive brunch or after dinner indulgence."
+    },
+    "178341": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "herbal"
+      ],
+      "taste": "A refreshing blend of citrus and rosemary with a touch of bitterness, perfect for a summer cocktail to quench your thirst."
+    },
+    "12748": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy hot chocolate with a hint of espresso, perfect for a comforting nightcap."
+    },
+    "16995": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Juicy and creamy orange with a hint of sweetness, perfect for a tropical dessert drink."
+    },
+    "12618": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a refreshing summer drink to quench thirst."
+    },
+    "13499": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A creamy, sweet and fruity blend of coffee liqueur, Irish cream, vanilla ice-cream, and Oreos, perfect for dessert drinks."
+    },
+    "11872": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "dessert",
+        "tropical"
+      ],
+      "taste": "Rich, sweet, velvety chocolate with almond notes, perfect for a dessert-like treat after dinner."
+    },
+    "13200": {
+      "flavors": [
+        "bitter",
+        "fruity",
+        "refreshing"
+      ],
+      "taste": "A bitter, fruity, refreshing blend of whiskey, beer, and lemonade, perfect for a hot summer day."
+    },
+    "17253": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy grape soda and tequila blend, perfect for a hot day cocktail."
+    },
+    "17190": {
+      "flavors": [
+        "sweet",
+        "tropical",
+        "fruity"
+      ],
+      "taste": "Sweet and tropical, perfect for a refreshing summer cocktail."
+    },
+    "178323": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "tropical"
+      ],
+      "taste": "A fruity and tropical cocktail, perfect for a warm summer evening."
+    },
+    "17249": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy mix of gin, orange curacao, lime, and bitters; perfect for a festive after dinner drink."
+    },
+    "17829": {
+      "flavors": [
+        "bitter",
+        "fruity",
+        "creamy",
+        "spicy"
+      ],
+      "taste": "A smoky, creamy, fruity blend with a spicy kick, perfect for sipping after dinner."
+    },
+    "17207": {
+      "flavors": [
+        "tropical",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A tropical blend of sweet pineapple and creamy coconut milk, perfect for a refreshing summer drink."
+    },
+    "12718": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "tropical"
+      ],
+      "taste": "Juicy and tropical, perfect for a refreshing summer drink."
+    },
+    "178327": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and tangy, perfect for sipping after a spicy meal."
+    },
+    "11936": {
+      "flavors": [
+        "bitter",
+        "sour"
+      ],
+      "taste": "Bitter and sour, perfect for a nightcap or after dinner indulgence."
+    },
+    "11938": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy gin cocktail with a touch of grenadine and egg white, perfect for a festive evening."
+    },
+    "178354": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and creamy tropical cocktail with a hint of citrus, perfect for a refreshing summer drink."
+    },
+    "13535": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a summer day drink."
+    },
+    "16992": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity tropical cocktail, perfect for a warm summer evening."
+    },
+    "13214": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Juicy and sweet, perfect for a brunch cocktail to start your day."
+    },
+    "17191": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy tropical cocktail, perfect for hot summer days."
+    },
+    "178368": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and tropical cocktail with orange, pineapple, and grenadine, perfect for a hot summer day."
+    },
+    "13072": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity with a tropical twist, perfect for a refreshing summer drink."
+    },
+    "11959": {
+      "flavors": [
+        "bitter",
+        "creamy",
+        "dessert"
+      ],
+      "taste": "Bittersweet and creamy, perfect for a dessert-like after-dinner drink."
+    },
+    "178357": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Rich, sweet, fruity, creamy cocktail; perfect for a night out or special occasion."
+    },
+    "11961": {
+      "flavors": [
+        "sweet",
+        "herbal"
+      ],
+      "taste": "Sweet and minty, perfect for a cool summer evening cocktail."
+    },
+    "11963": {
+      "flavors": [
+        "sweet",
+        "bitter"
+      ],
+      "taste": "Sweet and slightly bitter, best enjoyed after dinner for a rich finish."
+    },
+    "11965": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet, creamy, fruity drink; perfect for dessert moments."
+    },
+    "17192": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy with a hint of fruity port, perfect for a tropical dessert drink."
+    },
+    "178338": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity rum drink with a tropical twist, perfect for a hot summer day."
+    },
+    "15092": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Juicy and sweet tropical cocktail, perfect for a refreshing summer drink."
+    },
+    "11983": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Juicy and sweet, perfect for a warm summer evening cocktail."
+    },
+    "11985": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with citrus notes, perfect for a warm summer evening."
+    },
+    "11987": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "A sweet and creamy cocktail with a hint of citrus, perfect for a dessert-like drink in the evening."
+    },
+    "11989": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "tropical"
+      ],
+      "taste": "Sweet and tangy, perfect for a refreshing summer drink."
+    },
+    "11991": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "herbal"
+      ],
+      "taste": "A bitter-sweet herbal cocktail, perfect for after dinner indulgence."
+    },
+    "11993": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A rich, sweet and creamy blend of dark rum, coffee liqueur, and light cream, perfect for a nightcap after dinner."
+    },
+    "13198": {
+      "flavors": [
+        "creamy",
+        "sweet",
+        "tropical"
+      ],
+      "taste": "A tropical blend of creamy coffee, melon, and Irish cream, perfect for a dessert-like treat after dinner."
+    },
+    "15761": {
+      "flavors": [
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Juicy and creamy, perfect for a refreshing mid-day treat with orange juice and sambucca."
+    },
+    "16984": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A sweet and creamy tropical cocktail, perfect for sipping on a hot day."
+    },
+    "16031": {
+      "flavors": [
+        "refreshing",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Refreshing beer mixed with sweet, citrusy soda, perfect for hot summer days."
+    },
+    "12630": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and tangy cocktail with a citrusy kick, perfect for a hot summer day."
+    },
+    "178367": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "A sweet, creamy, and fruity cocktail best enjoyed on a hot summer day to refresh and satisfy."
+    },
+    "17167": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Juicy raspberry and sweet soda blend in a refreshing summer drink."
+    },
+    "178333": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy bourbon base, perfect for a refreshing summer sipper."
+    },
+    "14087": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy tropical cocktail, perfect for a festive evening after dinner."
+    },
+    "17208": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "bitter"
+      ],
+      "taste": "Sweet and fruity with a touch of bitterness, perfect for a refreshing aperitif."
+    },
+    "17245": {
+      "flavors": [
+        "bitter",
+        "fruity",
+        "herbal",
+        "spicy"
+      ],
+      "taste": "A spicy, fruity, herbal cocktail with a hint of blue curacao, perfect for a warm summer evening."
+    },
+    "17122": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "A rich, creamy Frangelico layered with smooth Crown Royal, perfect for a dessert-like after-dinner drink."
+    },
+    "12055": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "fruity"
+      ],
+      "taste": "Juicy and sweet with a hint of cola, perfect for a hot summer day."
+    },
+    "15082": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity tropical cocktail; perfect for a warm summer evening."
+    },
+    "12057": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Juicy and sweet, perfect for a sunny afternoon cocktail."
+    },
+    "17114": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A tart, sweet, fruity cocktail perfect for a tropical twist in the afternoon."
+    },
+    "12067": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet, fruity, citrusy drink perfect for a warm summer evening."
+    },
+    "12071": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity drink with a citrus twist, perfect for a hot summer day."
+    },
+    "12087": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy, perfect for a warm summer evening cocktail."
+    },
+    "12089": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet and bitter rum old fashioned with a creamy twist, perfect for sipping after dinner."
+    },
+    "14978": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Juicy and sweet, perfect for a hot summer day cocktail."
+    },
+    "16250": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity tropical cocktail for a refreshing summer drink."
+    },
+    "12091": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a brunch or after-work hour treat."
+    },
+    "12093": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and sourly citrus cocktail for a festive brunch or after dinner indulgence."
+    },
+    "12097": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy, best enjoyed warm on a chilly night."
+    },
+    "17214": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy finish, perfect for a dessert-like drink to enjoy after dinner."
+    },
+    "12101": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "creamy"
+      ],
+      "taste": "A bitter Scotch with a creamy, sweet Drambuie, perfect for sipping after dinner."
+    },
+    "17233": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A sweet and creamy cocktail with hints of chocolate and almond, perfect for a dessert-like drink after dinner."
+    },
+    "12107": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A tangy, sweet cocktail with grapefruit and a hint of citrus, perfect for a hot summer day."
+    },
+    "15184": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy cocktail with a hint of banana and fruity grenadine, perfect for a dessert-like evening drink."
+    },
+    "13020": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "spicy"
+      ],
+      "taste": "Sweet and fruity with a warm, spicy kick, perfect for a festive brunch or evening party."
+    },
+    "13026": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus",
+        "creamy"
+      ],
+      "taste": "Juicy and sweet with a touch of brandy, perfect for a warm day."
+    },
+    "12127": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "herbal"
+      ],
+      "taste": "A complex blend of rich, sweet absinthe, sharp bitters, and sugary bourbon, perfect for a sophisticated after-dinner drink."
+    },
+    "12130": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy, perfect for a dessert-like drink to enjoy after dinner."
+    },
+    "12138": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "herbal"
+      ],
+      "taste": "A sweet and bitter Scotch-based drink with herbal notes, perfect for a festive evening."
+    },
+    "12158": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A tart and sweet Scotch Sour, perfect for a boozy afternoon treat."
+    },
+    "12854": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Rich, sweet, creamy Scotch with herbal notes, perfect for sipping after dinner."
+    },
+    "13625": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "coffee"
+      ],
+      "taste": "Rich, creamy, sweet coffee with a hint of Irish cream, perfect for a nightcap or after dinner indulgence."
+    },
+    "12162": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "tropical",
+        "creamy"
+      ],
+      "taste": "A sweet and tropical mix of vodka and orange juice, perfect for a refreshing brunch drink."
+    },
+    "13377": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A zesty mix of vodka, cranberry, and grapefruit; perfect for a refreshing summer drink."
+    },
+    "12754": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity tropical cocktail for a beachy summer drink."
+    },
+    "12186": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity cocktail with tropical notes, perfect for a warm summer evening."
+    },
+    "16273": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "Refreshing and fruity with a hint of vodka, perfect for a hot summer day."
+    },
+    "12188": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet and creamy eggnog with sherry, perfect for a winter treat."
+    },
+    "12190": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy with a hint of sherry, perfect for a dessert-like drink after dinner."
+    },
+    "16985": {
+      "flavors": [
+        "bitter",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Bitter and sweet with a spicy kick; perfect for a nightcap or after dinner indulgence."
+    },
+    "12196": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and citrusy cocktail, perfect for after dinner indulgence."
+    },
+    "12198": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy blend of brandy, sweet triple sec, and tangy lemon, perfect for after dinner indulgence."
+    },
+    "12214": {
+      "flavors": [
+        "sweet",
+        "sour",
+        "fruity"
+      ],
+      "taste": "Sweet and tangy, perfect for a hot summer day cocktail."
+    },
+    "178306": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy, perfect for a nightcap or after dinner indulgence."
+    },
+    "12224": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A sweet and soury cocktail with a hint of orange, perfect for a warm evening."
+    },
+    "178332": {
+      "flavors": [
+        "fruity",
+        "herbal",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "A fruity, herbal, citrusy, refreshing margarita with tequila, watermelon puree, and mint, perfect for a hot summer day."
+    },
+    "17141": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet, fruity, creamy blend of red wine, peach schnapps, cola, and juice; perfect for a refreshing summer treat."
+    },
+    "13389": {
+      "flavors": [
+        "sour",
+        "sweet"
+      ],
+      "taste": "Sweet and lager-forward, best enjoyed before a night out to lighten your step."
+    },
+    "15789": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and tropical lager and cider drink with blackcurrant squash, perfect for a refreshing summer cocktail."
+    },
+    "14195": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "A sweet and fruity drink, perfect for a refreshing summer treat."
+    },
+    "178349": {
+      "flavors": [
+        "sweet",
+        "bitter",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet, bitter, fruity, creamy mix of vodka, amaro, port, orange, and bitters; perfect for a nightcap."
+    },
+    "12256": {
+      "flavors": [
+        "bitter",
+        "creamy",
+        "sour"
+      ],
+      "taste": "Bittersweet and creamy, perfect for sipping on a warm day."
+    },
+    "15226": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "tropical",
+        "creamy"
+      ],
+      "taste": "Sweet and tropical, perfect for a fruity finish after a meal."
+    },
+    "12750": {
+      "flavors": [
+        "creamy",
+        "sweet"
+      ],
+      "taste": "Rich and creamy with a hint of chocolate, perfect for a dessert drink after dinner."
+    },
+    "178322": {
+      "flavors": [
+        "spicy",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet, spicy cocktail with a hint of citrus, perfect for a festive evening."
+    },
+    "13032": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "spicy"
+      ],
+      "taste": "Sweet, fruity, spicy punch; perfect for warm days after a meal"
+    },
+    "12780": {
+      "flavors": [
+        "spicy",
+        "tropical"
+      ],
+      "taste": "Spicy and tropical notes from cardamom enhance coffee, perfect for a warm and aromatic drink in the morning."
+    },
+    "17215": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter"
+      ],
+      "taste": "A sweet and bitter cocktail made with prosecco, campari, and soda water, perfect for a refreshing aperitif."
+    },
+    "178308": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Juicy blend of sweet Prosecco with fruity Aperol, perfect for a celebratory evening."
+    },
+    "17193": {
+      "flavors": [
+        "creamy",
+        "herbal"
+      ],
+      "taste": "A creamy, minty cocktail that pairs well with desserts and after dinner."
+    },
+    "12308": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "sour"
+      ],
+      "taste": "Sweet and fruity with a touch of sour, perfect for a brunch or after dinner cocktail."
+    },
+    "12316": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "sour"
+      ],
+      "taste": "Sweet and fruity daiquiri with a hint of strawberry, perfect for a summer treat."
+    },
+    "13036": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy and sweet, perfect for a hot summer day cocktail."
+    },
+    "12322": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Sweet and fruity with a citrus twist, perfect for a summer cocktail to refresh and energize."
+    },
+    "12722": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity with a creamy texture, perfect for a refreshing summer treat."
+    },
+    "13042": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Juicy and sweet, perfect for a sunny holiday party."
+    },
+    "12760": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy cocktail with fruity notes, perfect for a dessert-like treat after dinner."
+    },
+    "15521": {
+      "flavors": [
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A rich, sweet blend of coffee and aquavit, perfect for a cozy evening treat."
+    },
+    "12724": {
+      "flavors": [
+        "sweet",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy banana milkshake, perfect for a warm day dessert drink."
+    },
+    "13024": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "refreshing"
+      ],
+      "taste": "A sweet, fruity, refreshing blend of red wine, citrus, and Fresca, perfect for a warm summer day."
+    },
+    "16990": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "A sweet and creamy drink, perfect for a dessert-like treat in the evening."
+    },
+    "14860": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "coffee",
+        "creamy"
+      ],
+      "taste": "A sweet and creamy blend of orange liqueur and coffee, perfect for a dessert-like after-dinner drink."
+    },
+    "15515": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "A rich, sweet and creamy blend of coffee, whiskey, and sweetened cream, perfect for a dessert-like after-dinner drink."
+    },
+    "12362": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Juicy and sweet with a hint of ginger, perfect for a tropical brunch."
+    },
+    "178307": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy mix of tequila and tangy soda, perfect for a quick pick-me-up after lunch."
+    },
+    "12370": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and soury tequila drink with a citrusy twist, perfect for a cocktail party or after dinner indulgence."
+    },
+    "13621": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "Juicy and sweet sunrise effect with tequila, orange, and grenadine, perfect for brunch or afternoons."
+    },
+    "14602": {
+      "flavors": [
+        "spicy",
+        "sour",
+        "tropical"
+      ],
+      "taste": "Spicy tequila with a splash of fiery tabasco, perfect for sipping on a hot day."
+    },
+    "15178": {
+      "flavors": [
+        "sweet",
+        "bitter",
+        "sour"
+      ],
+      "taste": "Sweet and soury at first, bitter at the end, perfect for a nightcap or after dinner indulgence."
+    },
+    "15639": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "coffee"
+      ],
+      "taste": "A rich, creamy blend of coffee liqueur, Irish cream, amaretto, and rum, perfect for a nightcap after dinner."
+    },
+    "12782": {
+      "flavors": [
+        "spicy",
+        "creamy",
+        "tropical",
+        "warm"
+      ],
+      "taste": "A spicy, creamy, tropical coffee drink with a warm, sweet finish, perfect for a dessert-like treat after dinner."
+    },
+    "12784": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Rich, sweet coffee with cardamom, served cold for a creamy, aromatic treat."
+    },
+    "12786": {
+      "flavors": [
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy Thai tea blended with condensed milk, perfect for a refreshing summer drink."
+    },
+    "16271": {
+      "flavors": [
+        "bitter",
+        "creamy",
+        "sour"
+      ],
+      "taste": "A rich, bitter chocolate cocktail with a hint of blue curacao, perfect for a nightcap or a special occasion."
+    },
+    "178350": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "A sweet and creamy cocktail with banana liqueur and pineapple, perfect for a tropical dessert drink."
+    },
+    "17826": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy amaretto with cranberry, perfect for a festive evening cocktail."
+    },
+    "17247": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A complex blend of bitter green chartreuse, sweet maraschino, and citrusy lime, perfect for a refreshing after-dinner cocktail."
+    },
+    "17824": {
+      "flavors": [
+        "fruity",
+        "herbal",
+        "spicy",
+        "tropical"
+      ],
+      "taste": "A tropical herbal cocktail with a spicy kick, perfect for a warm summer evening."
+    },
+    "178330": {
+      "flavors": [
+        "fruity",
+        "creamy",
+        "citrus"
+      ],
+      "taste": "A fruity, creamy cocktail with citrus notes, perfect for a refreshing summer drink."
+    },
+    "178339": {
+      "flavors": [
+        "fruity",
+        "bitter",
+        "sweet"
+      ],
+      "taste": "A fruity, bitter, sweet cocktail that pairs well with brunch or after dinner for a refreshing treat."
+    },
+    "12388": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with a citrus twist, perfect for a night out."
+    },
+    "12856": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "Rich, creamy coffee with hints of vanilla, perfect for dessert drinks."
+    },
+    "17828": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A complex blend of Irish whiskey, sweet vermouth, and green chartreuse, perfect for a sophisticated aperitif or evening cocktail."
+    },
+    "12402": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Refreshing and tart, perfect for a hot summer day cocktail."
+    },
+    "12726": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy tomato and lemon blend, perfect for a hot summer day cocktail."
+    },
+    "17216": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A zesty, sweet and fruity margarita, perfect for sipping after a meal."
+    },
+    "12418": {
+      "flavors": [
+        "bitter",
+        "fruity",
+        "herbal"
+      ],
+      "taste": "A herbal and slightly sweet cocktail with notes of fruit and vermouth, perfect for a warm summer evening."
+    },
+    "15006": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy amaretto with tropical pineapple, perfect for a dessert-like drink after dinner."
+    },
+    "12420": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet and bitter cocktail with fruity notes, perfect for a night out or after dinner indulgence."
+    },
+    "12434": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Sweet and fruity citrus cocktail, perfect for a warm summer day."
+    },
+    "17217": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A tequila-based cocktail with a sweet, fruity, and citrusy twist, perfect for sipping after dinner."
+    },
+    "12436": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity drink with a hint of citrus, perfect for a warm summer evening."
+    },
+    "12442": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "Bitter and sweet with a touch of fruity cassis, perfect for a cool summer evening mixer."
+    },
+    "17218": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A complex blend of gin, vodka, and lillet blanc, perfect for a sophisticated evening cocktail."
+    },
+    "12444": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "A sweet, fruity, creamy cocktail that pairs well with dessert drinks."
+    },
+    "12446": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy"
+      ],
+      "taste": "Sweet and creamy dark rum with a touch of brandy, best enjoyed in the evening for a rich finish."
+    },
+    "12450": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A tropical gin cocktail with sweet vermouth and brandy, perfect for a warm summer evening."
+    },
+    "12452": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and fruity cocktail with a hint of citrus, perfect for a hot summer day."
+    },
+    "12460": {
+      "flavors": [
+        "sour",
+        "sweet"
+      ],
+      "taste": "A crisp, slightly sweet mix of vodka and tonic water, perfect for a refreshing summer sipper."
+    },
+    "16967": {
+      "flavors": [
+        "creamy",
+        "fruity",
+        "sweet"
+      ],
+      "taste": "A creamy, fruity, sweet cocktail best enjoyed before a meal."
+    },
+    "178363": {
+      "flavors": [
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A refreshing blend of vodka and lemon juice, perfect for a hot summer day cocktail."
+    },
+    "14167": {
+      "flavors": [
+        "sour",
+        "bitter",
+        "creamy"
+      ],
+      "taste": "A classic martini with a touch of dry vermouth, perfect for a sophisticated evening drink."
+    },
+    "15403": {
+      "flavors": [
+        "sour",
+        "sweet"
+      ],
+      "taste": "Sweet and tangy, perfect for a cold evening cocktail."
+    },
+    "178362": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "citrus",
+        "refreshing"
+      ],
+      "taste": "A sweet and tangy mix, perfect for a refreshing summer drink."
+    },
+    "178364": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "refreshing"
+      ],
+      "taste": "A crisp, sweet mix of vodka and tonic water, perfect for a refreshing pick-me-up."
+    },
+    "12474": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "tropical"
+      ],
+      "taste": "A sweet and fruity tropical cocktail, perfect for a beachside drink."
+    },
+    "11004": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A tart and sweet whiskey drink with a hint of lemon, perfect for a hot summer day."
+    },
+    "12518": {
+      "flavors": [
+        "bitter",
+        "sweet",
+        "tropical"
+      ],
+      "taste": "A sweet and tropical blend of scotch and wine, perfect for sipping after dinner."
+    },
+    "17194": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Sweet and tangy citrus notes, perfect for a hot summer day cocktail."
+    },
+    "12528": {
+      "flavors": [
+        "creamy",
+        "coffee",
+        "sweet"
+      ],
+      "taste": "Rich, creamy coffee with a hint of sweetness, perfect for a nightcap."
+    },
+    "178326": {
+      "flavors": [
+        "fruity",
+        "sour",
+        "sweet"
+      ],
+      "taste": "Juicy and sweet, perfect for a warm summer evening cocktail."
+    },
+    "16158": {
+      "flavors": [
+        "sour",
+        "creamy",
+        "sweet",
+        "fruity"
+      ],
+      "taste": "A sweet and creamy blend of tequila, lime, and coconut, perfect for a tropical brunch drink."
+    },
+    "13056": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "Juicy blend of red wine and tangy soda, perfect for hot summer days."
+    },
+    "13058": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "citrus",
+        "tropical"
+      ],
+      "taste": "Sweet and fruity with citrus notes, perfect for a warm summer evening cocktail."
+    },
+    "178348": {
+      "flavors": [
+        "fruity",
+        "citrus",
+        "spicy"
+      ],
+      "taste": "A spicy, fruity Paloma with grapefruit-infused tequila and a hint of Himalayan pepper, perfect for sipping on a chilly evening."
+    },
+    "178347": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "bitter",
+        "fruity"
+      ],
+      "taste": "A sweet and bitter winter cocktail with citrus and tequila, perfect for a festive evening."
+    },
+    "17219": {
+      "flavors": [
+        "fruity",
+        "creamy",
+        "sour"
+      ],
+      "taste": "A fruity and creamy cocktail with a hint of lime and spice, perfect for a warm summer evening."
+    },
+    "12728": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy yogurt with fruity notes, perfect for hot summer days."
+    },
+    "15933": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy root beer with a hint of sambuca, perfect for a warm summer evening."
+    },
+    "15254": {
+      "flavors": [
+        "sweet",
+        "herbal"
+      ],
+      "taste": "Sweet and herbal with a hint of root beer, perfect for a nightcap."
+    },
+    "14157": {
+      "flavors": [
+        "fruity",
+        "sweet"
+      ],
+      "taste": "A sweet and fruity martini with a touch of vermouth, best enjoyed on a warm day."
+    },
+    "17027": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet and fruity creaminess, perfect for a dessert-like evening cocktail."
+    },
+    "15801": {
+      "flavors": [
+        "sweet",
+        "fruity",
+        "creamy"
+      ],
+      "taste": "Sweet, fruity, creamy Zima and Midori; perfect for a refreshing summer cocktail."
+    },
+    "14888": {
+      "flavors": [
+        "fruity",
+        "sour"
+      ],
+      "taste": "A fruity and slightly sweet cocktail that pairs well with a sweet finish, perfect for a hot summer day."
+    },
+    "16942": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "fruity"
+      ],
+      "taste": "Sweet and creamy raspberry vodka with a refreshing soda top, perfect for a casual evening drink."
+    },
+    "14065": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "Sweet, creamy tropical drink; perfect for a hot summer day cocktail."
+    },
+    "14594": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "fruity",
+        "citrus"
+      ],
+      "taste": "A sweet and citrusy cocktail for a refreshing summer drink."
+    },
+    "15691": {
+      "flavors": [
+        "fruity",
+        "creamy",
+        "sweet"
+      ],
+      "taste": "A sweet, creamy blend of beer, root beer, and cassis, perfect for a summer afternoon mixer."
+    },
+    "17241": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy",
+        "tropical"
+      ],
+      "taste": "A rich, sweet and creamy cocktail with tropical notes, perfect for a festive evening or as a dessert drink."
+    },
+    "16963": {
+      "flavors": [
+        "sour",
+        "sweet",
+        "creamy"
+      ],
+      "taste": "A creamy, sweet ouzo and vodka cocktail, perfect for a night out on the town."
+    },
+    "15328": {
+      "flavors": [
+        "sweet",
+        "creamy",
+        "herbal"
+      ],
+      "taste": "Sweet, creamy, herbal blend; perfect for dessert drinks."
+    }
+  },
+  "names": {}
+}

@@ -4,9 +4,9 @@ from typing import List, Optional
 from cocktail.inventory import Vocabulary
 from cocktail.llm import OllamaLLM
 from cocktail.memory import State
-from cocktail.render import intent_summary
 from cocktail.schemas import Intent
 
+NEGATIONS = {"no", "not", "without", "except", "avoid", "hate", "dislike", "skip", "minus", "never", "exclude", "allergic", "don't", "dont", "nothing"}
 RESET_WORDS = ("start over", "start fresh", "forget", "reset")
 ALCOHOL_WORDS = ("alcohol", "alcoholic", "booze", "boozy", "mocktail", "virgin", "sober", "proof")
 
@@ -15,37 +15,39 @@ def _dedupe(xs) -> List[str]:
     return list(dict.fromkeys(xs))
 
 
+def _form(word: str) -> str:
+    plural = rf"{re.escape(word[:-1])}ies|{re.escape(word)}(?:e?s)?" if word.endswith("y") else rf"{re.escape(word)}(?:e?s)?"
+    return rf"(?:{plural})"
+
+
 def _in_text(term: str, message: str) -> bool:
-    return any(re.search(rf"\b{re.escape(w)}(?:e?s)?\b", message.lower()) for w in term.replace("-", " ").split())
+    return any(re.search(rf"\b{_form(w)}\b", message.lower()) for w in term.replace("-", " ").split())
+
+
+def _negated(term: str, message: str) -> bool:
+    words = re.findall(r"[a-z']+", message.lower())
+    parts = term.lower().replace("-", " ").split()
+    return any(re.fullmatch(_form(p), w) and NEGATIONS & set(words[max(0, i - 5):i])
+               for i, w in enumerate(words) for p in parts)
 
 
 def _said(terms: List[str], message: str, vocab: Vocabulary) -> List[str]:
     return _dedupe(vocab.canon(t) for t in terms if t.strip() and _in_text(t, message))
 
 
-def _context(prev: Optional[Intent], shown: List[str], state: State) -> str:
-    bits = []
-    if prev is not None:
-        bits.append(intent_summary(prev))
-        if shown:
-            bits.append("drinks already shown: " + ", ".join(shown))
-    if state.describe():
-        bits.append("standing: " + state.describe())
-    return "; ".join(bits) or "none"
-
-
 def understand(message: str, vocab: Vocabulary, llm: OllamaLLM, prev: Optional[Intent] = None,
-               shown: Optional[List[str]] = None, state: Optional[State] = None) -> Intent:
+               state: Optional[State] = None) -> Intent:
     state = state if state is not None else State()
-    parsed = llm.understand(message, _context(prev, shown or [], state))
+    parsed = llm.understand(message)
     if parsed is None:
         return Intent(query=message, action="search", model_failed=True)
-    exclude = _said(parsed.exclude, message, vocab)
+    exclude = _dedupe(vocab.canon(t) for t in parsed.exclude if t.strip() and _negated(t, message))
+    words = set(re.findall(r"[a-z']+", message.lower()))
     intent = Intent(
         query=message,
         action=parsed.action,
         flavors=_dedupe(parsed.flavors),
-        avoid_flavors=_dedupe(parsed.avoid_flavors),
+        avoid_flavors=_dedupe(parsed.avoid_flavors) if NEGATIONS & words or "less" in words else [],
         exclude=exclude,
         must_include=[m for m in _said(parsed.must_include, message, vocab) if vocab.is_known(m) and m not in exclude],
         strength=None if parsed.strength == "any" else parsed.strength,
@@ -53,7 +55,7 @@ def understand(message: str, vocab: Vocabulary, llm: OllamaLLM, prev: Optional[I
         have=[h for h in _said(parsed.have, message, vocab) if vocab.is_known(h)],
         vibe=parsed.vibe.strip(),
         lookup=parsed.lookup.strip(),
-        followup=bool(prev and parsed.followup),
+        followup=bool(prev and parsed.followup and not (parsed.lookup.strip() or parsed.must_include or parsed.flavors)),
     )
     reset = parsed.reset and any(w in message.lower() for w in RESET_WORDS)
     _apply_state(intent, state, reset, set(_said(parsed.lift, message, vocab)))

@@ -3,7 +3,7 @@ import re
 STAPLES = {"ice", "water"}
 
 ALIASES = {
-    "limes": "lime", "lemons": "lemon", "oranges": "orange",
+    "limes": "lime", "lemons": "lemon", "oranges": "orange", "cherries": "cherry",
     "lime juice": "lime juice", "fresh lime juice": "lime juice", "juice of lime": "lime juice",
     "fresh lemon juice": "lemon juice",
     "sugar syrup": "simple syrup", "sugar": "sugar", "superfine sugar": "sugar",
